@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "Ham Sandwich",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "measurement": "2 slices"
+    }
+  ],
+  "cooking_method": "N/A"
+}
